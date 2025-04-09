@@ -1,0 +1,11 @@
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+line-bot-sdk>=3.16.3
+pillow
+python-dotenv
+functions-framework
+google-genai
+dfcx-scrapi
+google-cloud-discoveryengine
+pytz
