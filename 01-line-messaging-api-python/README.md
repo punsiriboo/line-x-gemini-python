@@ -20,7 +20,11 @@
     LINE_CHANNEL_ACCESS_TOKEN=your_line_channel_access_token
     LINE_CHANNEL_SECRET=your_line_channel_secret
     LINE_USER_ID=your_line_user_id
+    LINE_USER_ID=your_user_id
     ```
-
+- To Run Webhook in Local Environment
+   ```
+   ./local_run.sh
+   ```
 
 
